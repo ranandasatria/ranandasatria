@@ -28,4 +28,10 @@ HTML · CSS · JavaScript · Git · React · Node.js · MongoDB
 
 ## What I care about
 Good products are not just useful. They feel clear, respectful, and thoughtful.
+
 That’s the kind of work I want to be a part of. One that values both how it works and how it feels.
+
+I also love watching films and reading when I’m not coding:
+```
+🎬 letterboxd.com/ranandasatria
+📖 goodreads.com/ranandasatria
