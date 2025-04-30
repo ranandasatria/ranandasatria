@@ -4,7 +4,9 @@ Currently learning full-stack web development.
 
 I used to write for user interfaces. Now I'm learning how to build them too.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=notion)](https://bit.ly/portoranandasatria)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ranandasatria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/portoranandasatria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranandasatria)
+
 
 ## A little about me
 
@@ -32,7 +34,8 @@ Good products are not just useful. They feel clear, respectful, and thoughtful.
 That’s the kind of work I want to be a part of. One that values both how it works and how it feels.
 
 I also love watching films and reading when I’m not coding:
-```
-🎬 letterboxd.com/ranandasatria
-📖 goodreads.com/ranandasatria
-```
+
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-Follow-1c1c1c?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/ranandasatria)
+[![Goodreads](https://img.shields.io/badge/Goodreads-Read-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://goodreads.com/ranandasatria)
+
+
