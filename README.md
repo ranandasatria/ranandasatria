@@ -12,19 +12,19 @@ I come from the UI/UX field, mostly working on interface copy, onboarding flows,
 
 Right now I'm focusing on learning how websites and apps are built from scratch.
 
-![Rananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranandasatria&show_icons=true&theme=default&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranandasatria&layout=compact&theme=default&hide_title=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ranandasatria&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranandasatria&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=ranandasatria&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 No side projects at the moment. Just practicing, experimenting, and figuring things out as I go.
 
 ---
 
-## Tools I'm learning
-
-```bash
-HTML · CSS · JavaScript · Git · React · Node.js · MongoDB
-```
+## Tools and stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ## What I care about
 Good products are not just useful. They feel clear, respectful, and thoughtful.
@@ -35,3 +35,4 @@ I also love watching films and reading when I’m not coding:
 ```
 🎬 letterboxd.com/ranandasatria
 📖 goodreads.com/ranandasatria
+```
