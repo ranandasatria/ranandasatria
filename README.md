@@ -1,19 +1,59 @@
 # Hey, I'm Rananda
 
-Currently learning full-stack web development.  
+A fullstack developer with a UI/UX background. 
 
-I used to write for user interfaces. Now I'm learning how to build them too.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/portoranandasatria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=&logoColor=white)](https://ranandasatria.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranandasatria)
 
+---
 
-## A little about me
+## About Me
 
-I come from the UI/UX field, mostly working on interface copy, onboarding flows, and in-app messages.  
+I specialize in building reliable and scalable systems using Go, PostgreSQL, Redis, and Docker.  
+On the frontend, I work with React.js, Tailwind CSS, and JavaScript to deliver responsive and intuitive interfaces.
 
-Right now I'm focusing on learning how websites and apps are built from scratch.
+Before coding, I spent 3 years crafting UX copy for SaaS products and ERP systems. 
+That experience shaped how I think about clarity, structure, and usability in everything I build.
 
+---
+
+## Selected Projects
+
+**Tontrix – Movie Ticketing App**  
+A fullstack ticket booking platform with admin/user roles, built using Go, PostgreSQL, Redis, and React.  
+Authentication handled via JWT. Fully containerized with Docker Compose and CI via Git Actions.  
+[Live demo](https://tontrix.vercel.app)
+
+**Koda E-Wallet**  
+A digital wallet built with HTML, CSS, and JavaScript. Supports login, top-up, transfer, and transaction history using browser local storage.  
+Focused on DOM manipulation, logic, and UI structure.  
+[Live demo](https://ewalletkoda.netlify.app)
+
+---
+
+## Tools and Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+---
+
+## GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ranandasatria&theme=dark&hide_border=true)
 
@@ -21,21 +61,18 @@ Right now I'm focusing on learning how websites and apps are built from scratch.
 
 ![](https://github-profile-trophy.vercel.app/?username=ranandasatria&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-No side projects at the moment. Just practicing, experimenting, and figuring things out as I go.
+---
+
+## What I Care About
+
+I believe good products are not just functional.  
+They are clear, respectful, and thoughtfully designed.
 
 ---
 
-## Tools and stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+## Outside Work
 
-## What I care about
-Good products are not just useful. They feel clear, respectful, and thoughtful.
-
-That’s the kind of work I want to be a part of. One that values both how it works and how it feels.
-
-I also love watching films and reading when I’m not coding:
+When I’m not coding, I love watching films and reading books
 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-Follow-1c1c1c?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/ranandasatria)
 [![Goodreads](https://img.shields.io/badge/Goodreads-Read-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://goodreads.com/ranandasatria)
-
-
